@@ -11124,8 +11124,8 @@ body[data-layout="topnav"] .container-fluid, body[data-layout="topnav"] .contain
 
 .card {
   border: none;
-  -webkit-box-shadow: 0px 0px 35px 0px rgba(154, 161, 171, 0.15);
-          box-shadow: 0px 0px 35px 0px rgba(154, 161, 171, 0.15);
+  /* -webkit-box-shadow: 0px 0px 35px 0px rgba(154, 161, 171, 0.15);
+          box-shadow: 0px 0px 35px 0px rgba(154, 161, 171, 0.15); */
   margin-bottom: 24px; }
   .card .header-title {
     margin-bottom: 0.5rem;
