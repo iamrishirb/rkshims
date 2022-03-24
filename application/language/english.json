@@ -1218,5 +1218,21 @@
     "paid_amount_is_not_equal_to_total_amount": "Paid amount is not equal to total amount",
     "college_admin": "College admin",
     "admin_has_been_deleted_successfully": "Admin has been deleted successfully",
-    "some_of_the_emails_have_been_taken": "Some of the emails have been taken"
+    "some_of_the_emails_have_been_taken": "Some of the emails have been taken",
+    "payment_history": "Payment history",
+    "type_of_fee": "Type of fee",
+    "payment_method": "Payment method",
+    "cash": "Cash",
+    "cheque": "Cheque",
+    "card": "Card",
+    "take_payment": "Take payment",
+    "bill_to,": "Bill to,",
+    "payment_id": "Payment id",
+    "remarks": "Remarks",
+    "method": "Method",
+    "total_paid_amount": "Total paid amount",
+    "payment_amount": "Payment amount",
+    "enter_payment_amount": "Enter payment amount",
+    "enter_remarks": "Enter remarks",
+    "payment_taken_successfully": "Payment taken successfully"
 }

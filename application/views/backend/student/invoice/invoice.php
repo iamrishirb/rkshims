@@ -19,10 +19,11 @@
     <div class="card">
       <div class="card-body">
 
-       <!-- Invoice Logo-->
-       <div class="clearfix">
-          <div class="float-start mb-3" style="display: flex; justify-content: center; align-items: center; width:100%;">
-            <img src="<?php echo $this->settings_model->get_logo_dark(); ?>" alt="logo" height="80">
+        <!-- Invoice Logo-->
+        <div class="clearfix">
+          <div class="float-start mb-3" style="display: flex; justify-content: center; align-items: center;  flex-direction: column; width:100%;">
+            <img src="<?php echo $this->settings_model->get_logo_dark(); ?>" alt="logo" height="80"><br>
+            <h3 style="font-family: 'Times New Roman, Calibri, Nunito, sans-serif'; text-align: center;">R K Singh Hospital & Institute of Medical Sciences, <br> Ragauli, Karwi - Chitrakoot U.P.</h3>
           </div>
         </div>
 
